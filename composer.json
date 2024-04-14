@@ -20,7 +20,7 @@
     ],
     "require": {
         "php": ">=5.5.9 <=8.2.10",
-        "guzzlehttp/guzzle": "^6.5|^7.0",
+        "guzzlehttp/guzzle": "^5.3",
         "ramsey/uuid": "^3.7|^4.0",
         "kwn/number-to-words": "^1.9",
         "mpdf/mpdf": "^8.0"
